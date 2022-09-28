@@ -1,0 +1,9 @@
+﻿kafkaconsumer/.idea
+kafkaconsumer/.mvn
+kafkaconsumer/target
+kafkaproducer/.mvn
+kafkasample/kafkasample/.idea
+kafkaproducer/mvnw
+kafkaconsumer/mvnw
+kafkaconsumer/mvnw.cmd
+kafkaproducer/mvnw.cmd
